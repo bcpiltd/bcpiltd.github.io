@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    text: Baraka Technologies is an expert software and data science services firm that provides bespoke solutions to major pain points in companies. We are a specialist team of ployglot software engineers, expert data scientists and seasoned data engineers.
     button: Tell Me More
     buttonlink: "#services"
 
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "At Baraka Technologies, we're passionate about using our expertise in software and data science to help businesses like yours achieve their goals. We take a customized approach to every project, using our specialist skills in polyglot software engineering, data science, and data engineering to provide bespoke solutions that address your specific pain points. Our team is dedicated to delivering results that exceed your expectations, whether you're looking to improve efficiency, reduce costs, or gain a competitive edge. We pride ourselves on our innovative thinking, and we're always on the lookout for new and better ways to solve problems. When you choose Baraka Technologies, you're not just getting a service provider - you're getting a partner who's committed to your success."
     section: about
 
   clients:
